@@ -6,3 +6,6 @@ O site foi desenvolvido no formato One Page (página única), com navegação fl
 Seu principal objetivo é divulgar informações institucionais, eventos, filiações, regulamentações e promover o crescimento do Muay Thai no estado de Pernambuco.
 
 ![Demonstração do site](images/Gif_Demo.gif)
+
+
+<img src="images/Gif_Demo.gif" alt="Demonstração do site" width="800" height="500"/>
